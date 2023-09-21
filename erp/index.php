@@ -216,27 +216,7 @@
 								</div>
 							</div>
 							<div class="row">
-								<div class="col-12 col-lg-12 col-xl-12 d-flex">
-									<div class="card flex-fill comman-shadow">
-										<div class="card-header">
-											<div class="row align-items-center">
-												<div class="col-6">
-													<h5 class="card-title">Teaching Activity</h5>
-												</div>
-												<div class="col-6">
-													<ul class="chart-list-out">
-														<li><span class="circle-blue"></span>Teacher</li>
-														<li><span class="circle-green"></span>Students</li>
-														<li class="star-menus"><a href="javascript:;"><i class="fas fa-ellipsis-v"></i></a></li>
-													</ul>                                        
-												</div>
-											</div>						
-										</div>
-										<div class="card-body">
-											<div id="school-area"></div>
-										</div>
-									</div>
-								</div>
+								
 								<div class="col-12 col-lg-12 col-xl-12 d-flex">
 									<div class="card flex-fill comman-shadow">
 										<div class="card-header d-flex align-items-center">
