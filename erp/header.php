@@ -6,10 +6,10 @@ echo'
 			
 				<!-- Logo -->
                 <div class="header-left">
-                    <a href="index.html" class="logo">
+                    <a href="index.php" class="logo">
 						<img src="assets/img/logo.png" alt="Logo">
 					</a>
-					<a href="index.html" class="logo logo-small">
+					<a href="index.php" class="logo logo-small">
 						<img src="assets/img/logo-small.png" alt="Logo" width="30" height="30">
 					</a>
                 </div>
@@ -147,9 +147,9 @@ echo'
 									<p class="text-muted mb-0">Administrator</p>
 								</div>
 							</div>
-							<a class="dropdown-item" href="profile.html">My Profile</a>
-							<a class="dropdown-item" href="inbox.html">Inbox</a>
-							<a class="dropdown-item" href="login.html">Logout</a>
+							<a class="dropdown-item" href="profile.php">My Profile</a>
+							<a class="dropdown-item" href="inbox.php">Inbox</a>
+							<a class="dropdown-item" href="login.php">Logout</a>
 						</div>
 					</li>
 					<!-- /User Menu -->
@@ -168,55 +168,32 @@ echo'
 							<li class="menu-title"> 
 								<span>Main Menu</span>
 							</li>
-							<li class="submenu active">
-								<a href="index.html"><i class="feather-grid"></i> <span> Dashboard</span> </a>
+							<li>
+								<a href="index.php"><i class="feather-grid"></i> <span> Dashboard</span> </a>
 								
 							</li>
-							<li class="submenu">
-								<a href="#"><i class="fas fa-graduation-cap"></i> <span> Students</span> <span class="menu-arrow"></span></a>
-								<ul>
-									<li><a href="students.html">Student List</a></li>
-									<li><a href="student-details.html">Student View</a></li>
-									<li><a href="add-student.html">Student Add</a></li>
-									<li><a href="edit-student.html">Student Edit</a></li>
-								</ul>
+							<li>
+								<a href="students.php"><i class="fas fa-graduation-cap"></i> <span> Students</span> </a>
 							</li>
-							<li class="submenu">
-								<a href="#"><i class="fas fa-chalkboard-teacher"></i> <span> Teachers</span> <span class="menu-arrow"></span></a>
-								<ul>
-									<li><a href="teachers.html">Teacher List</a></li>
-									<li><a href="teacher-details.html">Teacher View</a></li>
-								</ul>
-							</li>
-							<li class="submenu">
-								<a href="#"><i class="fas fa-book-reader"></i> <span> Subjects</span> <span class="menu-arrow"></span></a>
-								<ul>
-									<li><a href="subjects.html">Subject List</a></li>
-									<li><a href="add-subject.html">Subject Add</a></li>
-									<li><a href="edit-subject.html">Subject Edit</a></li>
-								</ul>
+							<li>
+								<a href="teachers.php"><i class="fas fa-chalkboard-teacher"></i> <span> Teachers</span></a>
 							</li>
 							
 							<li class="menu-title"> 
 								<span>Management</span>
 							</li>
-
 							
 							<li> 
-								<a href="holiday.html"><i class="fas fa-holly-berry"></i> <span>Holiday</span></a>
-							</li>
-							
-							<li> 
-								<a href="exam.html"><i class="fas fa-clipboard-list"></i> <span>Exam list</span></a>
+								<a href="exam.php"><i class="fas fa-clipboard-list"></i> <span>Exam list</span></a>
 							</li>
 							<li> 
-								<a href="event.html"><i class="fas fa-calendar-day"></i> <span>Events</span></a>
+								<a href="event.php"><i class="fas fa-calendar-day"></i> <span>Events</span></a>
 							</li>
 							<li> 
-								<a href="time-table.html"><i class="fas fa-table"></i> <span>Time Table</span></a>
+								<a href="time-table.php"><i class="fas fa-table"></i> <span>Time Table</span></a>
 							</li>
 							<li> 
-								<a href="library.html"><i class="fas fa-book"></i> <span>Library</span></a>
+								<a href="library.php"><i class="fas fa-book"></i> <span>Library</span></a>
 							</li>
 							
 							
