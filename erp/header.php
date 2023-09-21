@@ -195,6 +195,18 @@ echo'
 							<li> 
 								<a href="demo.php"><i class="fas fa-book"></i> <span>Demo</span></a>
 							</li>
+							<li> 
+								<a href="demo.php"><i class="fas fa-users"></i> <span>Peer To Peer</span></a>
+							</li>
+							<li> 
+								<a href="demo.php"><i class="fas fa-chalkboard"></i> <span>Tech Trainings</span></a>
+							</li>
+							<li> 
+								<a href="demo.php"><i class="fas fa-user-graduate"></i> <span>Expert Talks</span></a>
+							</li>
+							<li> 
+								<a href="demo.php"><i class="fas fa-star"></i> <span>Performence</span></a>
+							</li>
 							
 							
 							
