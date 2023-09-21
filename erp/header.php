@@ -7,7 +7,7 @@ echo'
 				<!-- Logo -->
                 <div class="header-left">
                     <a href="index.php" class="logo">
-						<img src="assets/img/logo.png" alt="Logo">
+						<img src="assets/img/logo.png" alt="Logo" width="100" height="80">
 					</a>
 					<a href="index.php" class="logo logo-small">
 						<img src="assets/img/logo-small.png" alt="Logo" width="30" height="30">
@@ -194,6 +194,18 @@ echo'
 							</li>
 							<li> 
 								<a href="demo.php"><i class="fas fa-book"></i> <span>Demo</span></a>
+							</li>
+							<li> 
+								<a href="demo.php"><i class="fas fa-users"></i> <span>Peer To Peer</span></a>
+							</li>
+							<li> 
+								<a href="demo.php"><i class="fas fa-chalkboard"></i> <span>Tech Trainings</span></a>
+							</li>
+							<li> 
+								<a href="demo.php"><i class="fas fa-user-graduate"></i> <span>Expert Talks</span></a>
+							</li>
+							<li> 
+								<a href="performance.php"><i class="fas fa-star"></i> <span>Performence</span></a>
 							</li>
 							
 							

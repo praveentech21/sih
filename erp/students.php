@@ -95,12 +95,7 @@
 											<div class="col">
 												<h3 class="page-title">Students</h3>
 											</div>
-											<div class="col-auto text-end float-end ms-auto download-grp">
-												<a href="students.html" class="btn btn-outline-gray me-2 active"><i class="feather-list"></i></a>
-												<a href="students-grid.html" class="btn btn-outline-gray me-2"><i class="feather-grid"></i></a>
-												<a href="#" class="btn btn-outline-primary me-2"><i class="fas fa-download"></i> Download</a>
-												<a href="add-student.html" class="btn btn-primary"><i class="fas fa-plus"></i></a>
-											</div>
+											
 										</div>
 									</div>
 									<!-- /Page Header -->
@@ -109,11 +104,7 @@
 										<table class="table border-0 star-student table-hover table-center mb-0 datatable table-striped">
 											<thead class="student-thread">
 												<tr>
-													<th>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</th>
+													
 													<th>ID</th>
 													<th>Name</th>
 													<th>Class</th>
@@ -126,301 +117,236 @@
 											</thead>
 											<tbody>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2209</td>
+													
+													<td>21B91A6207</td>
 													<td>
 														<h2 class="table-avatar">
 															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-01.jpg" alt="User Image"></a>
-															<a href="student-details.html">Aaliyah</a>
+															<a href="student-details.html">Anusha</a>
 														</h2>
 													</td>
-													<td>10 A</td>
-													<td>2 Feb 2002</td>
-													<td>Jeffrey Wong</td>
-													<td>097 3584 5870</td>
-													<td>911 Deer Ridge Drive,USA</td>
+													<td>10th</td>
+													<td>2 Feb 2003</td>
+													<td>Ravi Kumar</td>
+													<td>9666525443</td>
+													<td>4/12,Kalidhindi</td>
 													<td class="text-end">
 														<div class="actions ">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
+															<a href="student-details.php" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
-															</a>
-															<a href="edit-student.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
 															</a>
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2213</td>
+													
+													<td>21B91A6206</td>
 													<td>
 														<h2 class="table-avatar">
 															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-03.jpg" alt="User Image"></a>
-															<a href="student-details.html">Malynne</a>
+															<a href="student-details.html">Ravi Kumar</a>
 														</h2>
 													</td>
-													<td>8 A</td>
-													<td>3 June 2010</td>
-													<td>Fields Malynne</td>
-													<td>242 362 3100</td>
-													<td>Bacardi Rd P.O. Box N-4880, New Providence</td>
+													<td>8th</td>
+													<td>3 June 2003</td>
+													<td>Vivek</td>
+													<td>9052727402</td>
+													<td>5-12,Tholeru</td>
 													<td class="text-end">
 														<div class="actions ">
 															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-student.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2143</td>
+													
+													<td>21B91A6219</td>
 													<td>
 														<h2 class="table-avatar">
 															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-02.jpg" alt="User Image"></a>
-															<a href="student-details.html">Levell Scott</a>
+															<a href="student-details.html">Ganesh</a>
 														</h2>
 													</td>
-													<td>10 A</td>
+													<td>12</td>
 													<td>12 Apr 2002</td>
-													<td>Jeffrey Scott</td>
-													<td>026 7318 4366</td>
-													<td>P.O. Box: 41, Gaborone</td>
+													<td>Mani</td>
+													<td>9640336946</td>
+													<td>8.12,Sisali</td>
 													<td class="text-end">
 														<div class="actions ">
 															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-student.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2431</td>
+													
+													<td>21B91A6210</td>
 													<td>
 														<h2 class="table-avatar">
 															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-03.jpg" alt="User Image"></a>
-															<a href="student-details.html">Minnie</a>
+															<a href="student-details.html">Mani</a>
 														</h2>
 													</td>
 													<td>11 C</td>
 													<td>24 Feb 2000</td>
-													<td>J Shaffer</td>
-													<td>952 512 4909</td>
-													<td>4771  Oral Lake Road, Golden Valley</td>
+													<td>Sai</td>
+													<td>8008009725</td>
+													<td>4-71,Palakol</td>
 													<td class="text-end">
 														<div class="actions ">
 															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-student.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE1534</td>
+													
+													<td>21B91A6205</td>
 													<td>
 														<h2 class="table-avatar">
 															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-04.jpg" alt="User Image"></a>
-															<a href="student-details.html">Lois A</a>
+															<a href="student-details.html">Rohit</a>
 														</h2>
 													</td>
 													<td>10 A</td>
 													<td>22 Jul 2006</td>
-													<td>Cleary Wong</td>
-													<td>413 289 1314</td>
-													<td>2844 Leverton Cove Road, Palmer</td>
+													<td>Rohit</td>
+													<td>6300278963</td>
+													<td>28-44, Killam</td>
 													<td class="text-end">
 														<div class="actions ">
 															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-student.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2153</td>
+													
+													<td>21B91A6258</td>
 													<td>
 														<h2 class="table-avatar">
 															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-05.jpg" alt="User Image"></a>
-															<a href="student-details.html">Calvin</a>
+															<a href="student-details.html">Harsha</a>
 														</h2>
 													</td>
 													<td>9 B</td>
 													<td>8 Dec 2003</td>
-													<td>Minnie J Shaffer</td>
-													<td>701 753 3810</td>
-													<td>1900  Hidden Meadow Drive, Crete</td>
+													<td>Krishna</td>
+													<td>8984858681</td>
+													<td>19-10, Mulanka</td>
 													<td class="text-end">
 														<div class="actions ">
 															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-student.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE1252</td>
+													
+													<td>21B91A6258</td>
 													<td>
 														<h2 class="table-avatar">
 															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-06.jpg" alt="User Image"></a>
-															<a href="student-details.html">Joe Kelley</a>
+															<a href="student-details.html">Vikranth Rona</a>
 														</h2>
 													</td>
 													<td>11 C</td>
 													<td>7 Oct 2000</td>
-													<td>Vincent Howard</td>
-													<td>402 221 7523</td>
-													<td>3979  Ashwood Drive, Omaha</td>
+													<td>Siva Sai</td>
+													<td>8584838281</td>
+													<td>Block B,Jp Road,Bhimavaram</td>
 													<td class="text-end">
 														<div class="actions ">
 															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-student.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE1434</td>
+													
+													<td>21B91A6232</td>
 													<td>
 														<h2 class="table-avatar">
 															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-07.jpg" alt="User Image"></a>
-															<a href="student-details.html">Vincent</a>
+															<a href="student-details.html">Prudhvi</a>
 														</h2>
 													</td>
 													<td>10 A</td>
 													<td>4 Jan 2002</td>
-													<td>Kelley Joe</td>
-													<td>402 221 7523</td>
-													<td>3979  Ashwood Drive, Omaha</td>
+													<td>Sanju</td>
+													<td>9640336946</td>
+													<td>Near KFC,Bhimavaram</td>
 													<td class="text-end">
 														<div class="actions ">
 															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-student.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2345</td>
+													
+													<td>21B91A6220</td>
 													<td>
 														<h2 class="table-avatar">
 															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-08.jpg" alt="User Image"></a>
-															<a href="student-details.html">Kozma  Tatari</a>
+															<a href="student-details.html">Sanju</a>
 														</h2>
 													</td>
 													<td>9 A</td>
 													<td>1 Feb 2006</td>
-													<td>Lombardi</td>
-													<td>04 2239 968</td>
-													<td>Rruga E Kavajes, Condor Center, Tirana</td>
+													<td>Ravi</td>
+													<td>9346998660</td>
+													<td>Bandhan Bank, Bhimavaram</td>
 													<td class="text-end">
 														<div class="actions ">
 															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-student.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2365</td>
+													
+													<td>21B91A6214</td>
 													<td>
 														<h2 class="table-avatar">
 															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-09.jpg" alt="User Image"></a>
-															<a href="student-details.html">John Chambers</a>
+															<a href="student-details.html">Satwik</a>
 														</h2>
 													</td>
 													<td>11 B</td>
 													<td>13 Sept 2003</td>
-													<td>Wong Jeffrey</td>
-													<td>870 663 2334</td>
-													<td>4667 Sunset Drive, Pine Bluff</td>
+													<td>Rohit</td>
+													<td>9594493339</td>
+													<td>1-123,Rajamundry</td>
 													<td class="text-end">
 														<div class="actions ">
 															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-student.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
+													
 													<td>PRE1234</td>
 													<td>
 														<h2 class="table-avatar">
@@ -438,9 +364,7 @@
 															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-student.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>

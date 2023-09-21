@@ -49,7 +49,7 @@
 						<div class="row">
 							<div class="col-sm-12">
 								<div class="page-sub-header">
-									<h3 class="page-title">Welcome Jonathan!</h3>
+									<h3 class="page-title">Welcome Mani!</h3>
 									<ul class="breadcrumb">
 										<li class="breadcrumb-item"><a href="index.html">Home</a></li>
 										<li class="breadcrumb-item active">Teacher</li>
@@ -84,7 +84,7 @@
 									<div class="db-widgets d-flex justify-content-between align-items-center">
 										<div class="db-info">
 											<h6>Total Students</h6>
-											<h3>40/60</h3>
+											<h3>70</h3>
 										</div>
 										<div class="db-icon">
 											<img  src="assets/img/icons/dash-icon-01.svg"  alt="Dashboard Icon">
@@ -152,12 +152,14 @@
 														<tr>
 															<td>
 																<div class="date">
-																	<b>Lessons 30</b>
-																	<p>3.1 Ipsuum dolor</p>
+																	<b>Lessons 3</b>
+																	<p>UI/UX</p>
 																	<ul class="teacher-date-list">
-																		<li><i class="fas fa-calendar-alt me-2"></i>Sep 5, 2022</li>
-																		<li>|</li>
-																		<li><i class="fas fa-clock me-2"></i>09:00 - 10:00 am</li>
+																		<li><i class="fas fa-calendar-alt me-1"></i>Sep 5, 2022</li>
+																		<li>| </li>
+																		<li><i class="fas fa-clock me-1 "></i>09:00 - 10:00 am</li>
+																		<li>| </li>
+																		<li><i class="fas fa-clock me-1"></i>12th Class</li>
 																	</ul>
 																</div>
 															</td>
@@ -171,12 +173,14 @@
 														<tr>
 															<td>
 																<div class="date">
-																	<b>Lessons 30</b>
-																	<p>3.1 Ipsuum dolor</p>
+																	<b>Lessons 2</b>
+																	<p>3.1 Web Development</p>
 																	<ul class="teacher-date-list">
-																		<li><i class="fas fa-calendar-alt me-2"></i>Sep 5, 2022</li>
-																		<li>|</li>
-																		<li><i class="fas fa-clock me-2"></i>09:00 - 10:00 am</li>
+																		<li><i class="fas fa-calendar-alt me-1"></i>Sep 5, 2022</li>
+																		<li>| </li>
+																		<li><i class="fas fa-clock me-1"></i>09:00 - 10:00 am</li>
+																		<li>| </li>
+																		<li><i class="fas fa-clock me-1"></i>11th Class</li>
 																	</ul>
 																</div>
 															</td>
@@ -204,10 +208,10 @@
 										</div>
 										<div class="dash-widget">
 											<div class="circle-bar circle-bar1">
-												<div class="circle-graph1" data-percent="50">
+												<div class="circle-graph1" data-percent="47">
 													<div class="progress-less">
-														<b>55/60</b>
-														<p>Lesson Progressed</p>
+														<b>25/60</b>
+														<p>Lesson Completed</p>
 													</div>
 												</div>
 											</div>
@@ -235,9 +239,9 @@
 												<ul class="activity-feed">
 													<li class="feed-item d-flex align-items-center">
 														<div class="dolor-activity">
-															<span class="feed-text1"><a>Mathematics</a></span>
+															<span class="feed-text1"><a>UI/UX</a></span>
 															<ul class="teacher-date-list">
-																<li><i class="fas fa-calendar-alt me-2"></i>September 5, 2022</li>
+																<li><i class="fas fa-user-alt me-2"></i>September 5, 2022</li>
 																<li>|</li>
 																<li><i class="fas fa-clock me-2"></i>09:00 am - 10:00 am (60 Minutes)</li>
 															</ul>
@@ -248,7 +252,7 @@
 													</li>
 													<li class="feed-item d-flex align-items-center">
 														<div class="dolor-activity">
-															<span class="feed-text1"><a>Geography	</a></span>
+															<span class="feed-text1"><a>Web Development</a></span>
 															<ul class="teacher-date-list">
 																<li><i class="fas fa-calendar-alt me-2"></i>September 5, 2022</li>
 																<li>|</li>
@@ -261,7 +265,7 @@
 													</li>
 													<li class="feed-item d-flex align-items-center">
 														<div class="dolor-activity">
-															<span class="feed-text1"><a>Botony</a></span>
+															<span class="feed-text1"><a>UI/UX</a></span>
 															<ul class="teacher-date-list">
 																<li><i class="fas fa-calendar-alt me-2"></i>September 5, 2022</li>
 																<li>|</li>
@@ -290,93 +294,84 @@
 											<span><a href="javascript:;"><i class="feather-plus"></i></a></span>
 										</div>
 										<div class="upcome-event-date">
-											<h3>10 Jan</h3>
+											<h3>19 SEP</h3>
 											<span><i class="fas fa-ellipsis-h"></i></span>
 										</div>
 										<div class="calendar-details">
-											<p>08:00 am</p>
+											<p>10:40 am</p>
 											<div class="calendar-box normal-bg">
 												<div class="calandar-event-name">
-													<h4>Botony</h4>
-													<h5>Lorem ipsum sit amet</h5>
+													<h4>SIH</h4>
+													<h5>PPT Presentation</h5>
 												</div>
-												<span>08:00 - 09:00 am</span>
+												<span>10:40 - 10:50 am</span>
 											</div>
 										</div>
 										<div class="calendar-details">
-											<p>09:00 am</p>
+											<p>02:00 pm</p>
 											<div class="calendar-box normal-bg">
 												<div class="calandar-event-name">
-													<h4>Botony</h4>
-													<h5>Lorem ipsum sit amet</h5>
+													<h4> Assignments</h4>
+													<h5>Figma Assignments Correction</h5>
 												</div>
-												<span>09:00 - 10:00 am</span>
+												<span>02:00 - 03:00 pm</span>
 											</div>
 										</div>
 										<div class="calendar-details">
-											<p>10:00 am</p>
+											<p>03:30 pm</p>
 											<div class="calendar-box normal-bg">
 												<div class="calandar-event-name">
-													<h4>Botony</h4>
-													<h5>Lorem ipsum sit amet</h5>
+													<h4>Workshop</h4>
+													<h5>Html Workshop </h5>
 												</div>
-												<span>10:00 - 11:00 am</span>
+												<span>03:30 - 04:00 pm</span>
 											</div>
 										</div>
 										<div class="upcome-event-date">
-											<h3>10 Jan</h3>
+											<h3>22 SEP</h3>
 											<span><i class="fas fa-ellipsis-h"></i></span>
 										</div>
 										<div class="calendar-details">
-											<p>08:00 am</p>
+											<p>09:30 am</p>
 											<div class="calendar-box normal-bg">
 												<div class="calandar-event-name">
-													<h4>English</h4>
-													<h5>Lorem ipsum sit amet</h5>
+													<h4>SIH HACKATHON</h4>
+													<h5>SIH Internal Hackathon Start</h5>
 												</div>
-												<span>08:00 - 09:00 am</span>
+												<span>09:30 -   ----- am</span>
 											</div>
 										</div>
 										<div class="calendar-details">
-											<p>09:00 am</p>
+											<p>12:30 pm</p>
 											<div class="calendar-box normal-bg">
 												<div class="calandar-event-name">
-													<h4>Mathematics	</h4>
-													<h5>Lorem ipsum sit amet</h5>
+													<h4>Peer Evaluation	</h4>
+													<h5>Peer Evaluation of the teams</h5>
 												</div>
-												<span>09:00 - 10:00 am</span>
+												<span>12:30 - 2:30 pm</span>
 											</div>
 										</div>
 										<div class="calendar-details">
-											<p>10:00 am</p>
+											<p>3:00 pm</p>
 											<div class="calendar-box normal-bg">
 												<div class="calandar-event-name">
-													<h4>History</h4>
-													<h5>Lorem ipsum sit amet</h5>
+													<h4>Web-Site</h4>
+													<h5>Website Development Work</h5>
 												</div>
-												<span>10:00 - 11:00 am</span>
+												<span>3:00 - 4:00 pm</span>
 											</div>
 										</div>
 										<div class="calendar-details">
-											<p>11:00 am</p>
+											<p>4:00 pm</p>
 											<div class="calendar-box break-bg">
 												<div class="calandar-event-name">
-													<h4>Break</h4>
-													<h5>Lorem ipsum sit amet</h5>
+													<h4>PHP Online Class</h4>
+													<h5>php online class for 12th class</h5>
 												</div>
-												<span>11:00 - 12:00 am</span>
+												<span>4:00 - 5:00 pm</span>
 											</div>
 										</div>
-										<div class="calendar-details">
-											<p>11:30 am</p>
-											<div class="calendar-box normal-bg">
-												<div class="calandar-event-name">
-													<h4>History</h4>
-													<h5>Lorem ipsum sit amet</h5>
-												</div>
-												<span>11:30 - 12:00 am</span>
-											</div>
-										</div>
+										
 									</div>
 								</div>
 							</div>
