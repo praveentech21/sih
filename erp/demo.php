@@ -65,7 +65,7 @@
                         <div class="col-md-6 col-xl-4 col-sm-12 d-flex">
                             <div class="blog grid-blog flex-fill">
                                 <div class="blog-image">
-                                    <a href="demo-details.php"><img class="img-fluid" src="assets/img/category/blog-6.jpg" alt="Post Image"></a>
+                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-6.jpg" alt="Post Image"></a>
                                     <div class="blog-views">
                                         <i class="feather-eye me-1"></i> 225
                                     </div>
@@ -85,7 +85,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="demo-details.php">Learning is an objective, Lorem Ipsum is not  </a></h3>
+                                    <h3 class="blog-title"><a href="">Learning is an objective, Lorem Ipsum is not  </a></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                             </div>										
@@ -96,7 +96,7 @@
                         <div class="col-md-6 col-xl-4 col-sm-12 d-flex">
                             <div class="blog grid-blog flex-fill">
                                 <div class="blog-image">
-                                    <a href="demo-details.php"><img class="img-fluid" src="assets/img/category/blog-2.jpg" alt="Post Image"></a>
+                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-2.jpg" alt="Post Image"></a>
                                     <div class="blog-views">
                                         <i class="feather-eye me-1"></i> 132
                                     </div>
@@ -116,7 +116,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="demo-details.php">Discussion Increase student learning</a></h3>
+                                    <h3 class="blog-title"><a href="">Discussion Increase student learning</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                                 
@@ -128,7 +128,7 @@
                         <div class="col-md-6 col-xl-4 col-sm-12 d-flex">    
                             <div class="blog grid-blog flex-fill">
                                 <div class="blog-image">
-                                    <a href="demo-details.php"><img class="img-fluid" src="assets/img/category/blog-3.jpg" alt="Post Image"></a>
+                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-3.jpg" alt="Post Image"></a>
                                     <div class="blog-views">
                                         <i class="feather-eye me-1"></i> 344
                                     </div>
@@ -148,7 +148,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="demo-details.php">Music reduces stress,Lorem Ipsum is not </a></h3>
+                                    <h3 class="blog-title"><a href="">Music reduces stress,Lorem Ipsum is not </a></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                                 
@@ -160,7 +160,7 @@
                         <div class="col-md-6 col-xl-4 col-sm-12 d-flex">
                             <div class="blog grid-blog flex-fill">
                                 <div class="blog-image">
-                                    <a href="demo-details.php"><img class="img-fluid" src="assets/img/category/blog-4.jpg" alt="Post Image"></a>
+                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-4.jpg" alt="Post Image"></a>
                                     <div class="blog-views">
                                         <i class="feather-eye me-1"></i> 215
                                     </div>
@@ -180,7 +180,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="demo-details.php">Sports reduced risk of obesity, Lorem Ipsum is not  </a></h3>
+                                    <h3 class="blog-title"><a href="">Sports reduced risk of obesity, Lorem Ipsum is not  </a></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                                 
@@ -192,7 +192,7 @@
                         <div class="col-md-6 col-xl-4 col-sm-12 d-flex">
                             <div class="blog grid-blog flex-fill">
                                 <div class="blog-image">
-                                    <a href="demo-details.php"><img class="img-fluid" src="assets/img/category/blog-5.jpg" alt="Post Image"></a>
+                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-5.jpg" alt="Post Image"></a>
                                     <div class="blog-views">
                                         <i class="feather-eye me-1"></i> 285
                                     </div>
@@ -212,7 +212,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="demo-details.php">Yoga can ease arthritis symptoms</a></h3>
+                                    <h3 class="blog-title"><a href="">Yoga can ease arthritis symptoms</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                                 
@@ -224,7 +224,7 @@
                         <div class="col-md-6 col-xl-4 col-sm-12 d-flex">
                             <div class="blog grid-blog flex-fill">
                                 <div class="blog-image">
-                                    <a href="demo-details.php"><img class="img-fluid" src="assets/img/category/blog-1.jpg" alt="Post Image"></a>
+                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-1.jpg" alt="Post Image"></a>
                                     <div class="blog-views">
                                         <i class="feather-eye me-1"></i> 654
                                     </div>
@@ -244,7 +244,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="demo-details.php">Education gives Greater Sense of Disciplinet</a></h3>
+                                    <h3 class="blog-title"><a href="">Education gives Greater Sense of Disciplinet</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                                 
