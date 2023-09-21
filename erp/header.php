@@ -193,7 +193,7 @@ echo'
 								<a href="time-table.php"><i class="fas fa-table"></i> <span>Time Table</span></a>
 							</li>
 							<li> 
-								<a href="library.php"><i class="fas fa-book"></i> <span>Library</span></a>
+								<a href="demo.php"><i class="fas fa-book"></i> <span>Demo</span></a>
 							</li>
 							
 							
