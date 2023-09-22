@@ -7,7 +7,7 @@ echo'
 				<!-- Logo -->
                 <div class="header-left">
                     <a href="index.php" class="logo">
-						<img src="assets/img/logo.png" alt="Logo" width="100" height="80">
+						<img src="assets/img/logo.png" alt="Logo">
 					</a>
 					<a href="index.php" class="logo logo-small">
 						<img src="assets/img/logo-small.png" alt="Logo" width="30" height="30">
@@ -130,9 +130,9 @@ echo'
 					<li class="nav-item dropdown has-arrow new-user-menus">
 						<a href="#" class="dropdown-toggle nav-link" data-bs-toggle="dropdown">
 							<span class="user-img">
-								<img class="rounded-circle" src="assets/img/profiles/avatar-01.jpg" width="31" alt="Ryan Taylor">
+								<img class="rounded-circle" src="assets/img/profiles/avatar-01.jpg" width="31" alt="Mani">
 								<div class="user-text">
-									<h6>Ryan Taylor</h6>
+									<h6>Mani</h6>
 									<p class="text-muted mb-0">Administrator</p>
 								</div>
 							</span>
@@ -143,7 +143,7 @@ echo'
 									<img src="assets/img/profiles/avatar-01.jpg" alt="User Image" class="avatar-img rounded-circle">
 								</div>
 								<div class="user-text">
-									<h6>Ryan Taylor</h6>
+									<h6>Mani</h6>
 									<p class="text-muted mb-0">Administrator</p>
 								</div>
 							</div>
@@ -196,13 +196,13 @@ echo'
 								<a href="demo.php"><i class="fas fa-book"></i> <span>Demo</span></a>
 							</li>
 							<li> 
-								<a href="demo.php"><i class="fas fa-users"></i> <span>Peer To Peer</span></a>
+								<a href="error-404.php"><i class="fas fa-users"></i> <span>Peer To Peer</span></a>
 							</li>
 							<li> 
-								<a href="demo.php"><i class="fas fa-chalkboard"></i> <span>Tech Trainings</span></a>
+								<a href="error-404.php"><i class="fas fa-chalkboard"></i> <span>Tech Trainings</span></a>
 							</li>
 							<li> 
-								<a href="demo.php"><i class="fas fa-user-graduate"></i> <span>Expert Talks</span></a>
+								<a href="error-404.php"><i class="fas fa-user-graduate"></i> <span>Expert Talks</span></a>
 							</li>
 							<li> 
 								<a href="performance.php"><i class="fas fa-star"></i> <span>Performence</span></a>

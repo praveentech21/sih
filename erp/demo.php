@@ -65,7 +65,7 @@
                         <div class="col-md-6 col-xl-4 col-sm-12 d-flex">
                             <div class="blog grid-blog flex-fill">
                                 <div class="blog-image">
-                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-6.jpg" alt="Post Image"></a>
+                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-1.png" alt="Post Image"></a>
                                     <div class="blog-views">
                                         <i class="feather-eye me-1"></i> 225
                                     </div>
@@ -75,18 +75,18 @@
                                     <ul class="entry-meta meta-item">
                                         <li>
                                             <div class="post-author">
-                                                <a href="profile.html">
-                                                    <img src="assets/img/profiles/avatar-01.jpg" alt="Post Author"> 
+                                                <a>
+                                                    <img src="assets/img/profiles/avatar-01.png" alt="Post Author"> 
                                                     <span>
-                                                        <span class="post-title">Vincent</span>
+                                                        <span class="post-title">Ravi Kumar</span>
                                                         <span class="post-date"><i class="far fa-clock"></i>  4 Dec 2022</span>
                                                     </span>
                                                 </a>
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="">Learning is an objective, Lorem Ipsum is not  </a></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
+                                    <h3 class="blog-title"><a href="https://youtu.be/ezbJwaLmOeM?si=p7TOCWAI2eXIyJCy" target="new">LMS Introduction Part-1</a></h3>
+                                    <p>Introduction to lms and explaining the basics of lms.</p>
                                 </div>
                             </div>										
                         </div>
@@ -96,7 +96,7 @@
                         <div class="col-md-6 col-xl-4 col-sm-12 d-flex">
                             <div class="blog grid-blog flex-fill">
                                 <div class="blog-image">
-                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-2.jpg" alt="Post Image"></a>
+                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-2.png" alt="Post Image"></a>
                                     <div class="blog-views">
                                         <i class="feather-eye me-1"></i> 132
                                     </div>
@@ -106,18 +106,18 @@
                                     <ul class="entry-meta meta-item">
                                         <li>
                                             <div class="post-author">
-                                                <a href="profile.html">
-                                                    <img src="assets/img/profiles/avatar-02.jpg" alt="Post Author"> 
+                                                <a>
+                                                    <img src="assets/img/profiles/avatar-02.png" alt="Post Author"> 
                                                     <span>
-                                                        <span class="post-title">Lois A</span>
+                                                        <span class="post-title">Vivek</span>
                                                         <span class="post-date"><i class="far fa-clock"></i>  4 Dec 2022</span>
                                                     </span>
                                                 </a>
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="">Discussion Increase student learning</a></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
+                                    <h3 class="blog-title"><a href="https://youtu.be/5_zgFmncXWk?si=-ycHc-lyRjZYNjGF"target='new' >LMS Introduction Part-2</a></h3>
+                                    <p>how to create the courses and upload the content.</p>
                                 </div>
                                 
                             </div>										
@@ -128,7 +128,7 @@
                         <div class="col-md-6 col-xl-4 col-sm-12 d-flex">    
                             <div class="blog grid-blog flex-fill">
                                 <div class="blog-image">
-                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-3.jpg" alt="Post Image"></a>
+                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-3.png" alt="Post Image"></a>
                                     <div class="blog-views">
                                         <i class="feather-eye me-1"></i> 344
                                     </div>
@@ -138,18 +138,18 @@
                                     <ul class="entry-meta meta-item">
                                         <li>
                                             <div class="post-author">
-                                                <a href="profile.html">
-                                                    <img src="assets/img/profiles/avatar-03.jpg" alt="Post Author"> 
+                                                <a>
+                                                    <img src="assets/img/profiles/avatar-03.png" alt="Post Author"> 
                                                     <span>
-                                                        <span class="post-title">Levell Scott</span>
+                                                        <span class="post-title">Harsha</span>
                                                         <span class="post-date"><i class="far fa-clock"></i>  4 Dec 2022</span>
                                                     </span>
                                                 </a>
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="">Music reduces stress,Lorem Ipsum is not </a></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
+                                    <h3 class="blog-title"><a href="https://youtu.be/1E1BGjm2hhk?si=OCw_WUrwwh5ZmHwt" target='new'>LMS Introduction Part-3</a></h3>
+                                    <p>how to upload the recorded classes in lms.</p>
                                 </div>
                                 
                             </div>										
@@ -160,7 +160,7 @@
                         <div class="col-md-6 col-xl-4 col-sm-12 d-flex">
                             <div class="blog grid-blog flex-fill">
                                 <div class="blog-image">
-                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-4.jpg" alt="Post Image"></a>
+                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-4.png" alt="Post Image"></a>
                                     <div class="blog-views">
                                         <i class="feather-eye me-1"></i> 215
                                     </div>
@@ -170,18 +170,18 @@
                                     <ul class="entry-meta meta-item">
                                         <li>
                                             <div class="post-author">
-                                                <a href="profile.html">
-                                                    <img src="assets/img/profiles/avatar-04.jpg" alt="Post Author"> 
+                                                <a>
+                                                    <img src="assets/img/profiles/avatar-04.png" alt="Post Author"> 
                                                     <span>
-                                                        <span class="post-title">Calvin</span>
+                                                        <span class="post-title">Mani</span>
                                                         <span class="post-date"><i class="far fa-clock"></i>  4 Dec 2022</span>
                                                     </span>
                                                 </a>
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="">Sports reduced risk of obesity, Lorem Ipsum is not  </a></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
+                                    <h3 class="blog-title"><a href="https://youtu.be/NtEZffuL75E?si=Eufs_7idJMyfXYeC" target='new'>LMS Introduction Part-4</a></h3>
+                                    <p>attendance taking using lms.</p>
                                 </div>
                                 
                             </div>										
@@ -192,7 +192,7 @@
                         <div class="col-md-6 col-xl-4 col-sm-12 d-flex">
                             <div class="blog grid-blog flex-fill">
                                 <div class="blog-image">
-                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-5.jpg" alt="Post Image"></a>
+                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-5.png" alt="Post Image"></a>
                                     <div class="blog-views">
                                         <i class="feather-eye me-1"></i> 285
                                     </div>
@@ -202,18 +202,18 @@
                                     <ul class="entry-meta meta-item">
                                         <li>
                                             <div class="post-author">
-                                                <a href="profile.html">
-                                                    <img src="assets/img/profiles/avatar-05.jpg" alt="Post Author"> 
+                                                <a>
+                                                    <img src="assets/img/profiles/avatar-05.png" alt="Post Author"> 
                                                     <span>
-                                                        <span class="post-title">Aaliyah </span>
+                                                        <span class="post-title">Suresh Babu </span>
                                                         <span class="post-date"><i class="far fa-clock"></i>  4 Dec 2022</span>
                                                     </span>
                                                 </a>
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="">Yoga can ease arthritis symptoms</a></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
+                                    <h3 class="blog-title"><a href="https://youtu.be/uDZC3h8EUwg?si=gUU9_tk5Y-sh2bBw" target='new'>LMS Introduction Part-5</a></h3>
+                                    <p>how to give assignment to students in lms.</p>
                                 </div>
                                 
                             </div>										
@@ -224,7 +224,7 @@
                         <div class="col-md-6 col-xl-4 col-sm-12 d-flex">
                             <div class="blog grid-blog flex-fill">
                                 <div class="blog-image">
-                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-1.jpg" alt="Post Image"></a>
+                                    <a href=""><img class="img-fluid" src="assets/img/category/blog-6.png" alt="Post Image"></a>
                                     <div class="blog-views">
                                         <i class="feather-eye me-1"></i> 654
                                     </div>
@@ -234,18 +234,18 @@
                                     <ul class="entry-meta meta-item">
                                         <li>
                                             <div class="post-author">
-                                                <a href="profile.html">
-                                                    <img src="assets/img/profiles/avatar-06.jpg" alt="Post Author"> 
+                                                <a>
+                                                    <img src="assets/img/profiles/avatar-06.png" alt="Post Author"> 
                                                     <span>
-                                                        <span class="post-title">Malynne</span>
+                                                        <span class="post-title">Sikhindar</span>
                                                         <span class="post-date"><i class="far fa-clock"></i>  4 Dec 2022</span>
                                                     </span>
                                                 </a>
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="">Education gives Greater Sense of Disciplinet</a></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
+                                    <h3 class="blog-title"><a href="https://youtu.be/i8oop8Q1WRI?si=e_qHPrZglb9wjRPJ">LMS Introduction Part-6</a></h3>
+                                    <p>adding new studnets to the lms and changing UI.</p>
                                 </div>
                                 
                             </div>										

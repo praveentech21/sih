@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-        <title>Preskool - Teachers</title>
+        <title>EIDl - Teachers</title>
 		
 		<!-- Favicon -->
         <link rel="shortcut icon" href="assets/img/favicon.png">
@@ -48,7 +48,7 @@
 							<div class="col">
 								<h3 class="page-title">Teachers</h3>
 								<ul class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+									<li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
 									<li class="breadcrumb-item active">Teachers</li>
 								</ul>
 							</div>
@@ -93,12 +93,7 @@
 											<div class="col">
 												<h3 class="page-title">Teachers</h3>
 											</div>
-											<div class="col-auto text-end float-end ms-auto download-grp">
-												<a href="teachers.html" class="btn btn-outline-gray me-2 active"><i class="feather-list"></i></a>
-												<a href="teachers-grid.html" class="btn btn-outline-gray me-2"><i class="feather-grid"></i></a>
-												<a href="#" class="btn btn-outline-primary me-2"><i class="fas fa-download"></i> Download</a>
-												<a href="add-teacher.html" class="btn btn-primary"><i class="fas fa-plus"></i></a>
-											</div>
+											
 										</div>
 									</div>
 									<!-- /Page Header -->
@@ -107,11 +102,7 @@
 										<table class="table border-0 star-student table-hover table-center mb-0 datatable table-striped">
 											<thead class="student-thread">
 												<tr>
-													<th>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</th>
+													
 													<th>ID</th>
 													<th>Name</th>
 													<th>Class</th>
@@ -125,166 +116,132 @@
 											</thead>
 											<tbody>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2209</td>
+													
+													<td>EID10</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-02.jpg" alt="User Image"></a>
-															<a href="teacher-details.html">Aaliyah</a>
+															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-02.jpg" alt="User Image"></a>
+															<a href="teacher-details.php">Suresh Babu</a>
 														</h2>
 													</td>
 													<td>10</td>
-													<td>Female</td>
-													<td>Mathematics</td>
+													<td>Male</td>
+													<td>C</td>
 													<td>A</td>
-													<td>097 3584 5870</td>
-													<td>911 Deer Ridge Drive,USA</td>
+													<td>9800066662</td>
+													<td>Bhimavaram</td>
 													<td class="text-end">
 														<div class="actions">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2">
+															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-teacher.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2213</td>
+													
+													<td>EID12</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-03.jpg" alt="User Image"></a>
-															<a href="teacher-details.html">Malynne</a>
+															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-03.jpg" alt="User Image"></a>
+															<a href="teacher-details.php">Ravi</a>
 														</h2>
 													</td>
 													<td>8</td>
-													<td>Female</td>
-													<td>Physics</td>
+													<td>Male</td>
+													<td>PHP</td>
 													<td>A</td>
 													<td>242 362 3100</td>
-													<td>Bacardi Rd P.O. Box N-4880, New Providence</td>
+													<td>Tholeru</td>
 													<td class="text-end">
 														<div class="actions">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2">
+															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-teacher.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2143</td>
+													
+													<td>EID20</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-04.jpg" alt="User Image"></a>
-															<a href="teacher-details.html">Levell Scott</a>
+															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-04.jpg" alt="User Image"></a>
+															<a href="teacher-details.php">Anusha</a>
 														</h2>
 													</td>
 													<td>10</td>
-													<td>Male</td>
+													<td>Female</td>
 													<td>Science</td>
 													<td>B</td>
 													<td>026 7318 4366</td>
-													<td>P.O. Box: 41, Gaborone</td>
+													<td>Kalidhindi</td>
 													<td class="text-end">
 														<div class="actions">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2">
+															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-teacher.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2431</td>
+													
+													<td>EID25</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-05.jpg" alt="User Image"></a>
-															<a href="teacher-details.html">Minnie</a>
+															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-05.jpg" alt="User Image"></a>
+															<a href="teacher-details.php">Teju</a>
 														</h2>
 													</td>
 													<td>11</td>
-													<td>Male</td>
+													<td>Female</td>
 													<td>History</td>
 													<td>C</td>
 													<td>952 512 4909</td>
-													<td>4771  Oral Lake Road, Golden Valley</td>
+													<td>Bhimavaram</td>
 													<td class="text-end">
 														<div class="actions">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2">
+															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-teacher.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE1534</td>
+													
+													<td>EID30</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-06.jpg" alt="User Image"></a>
-															<a href="teacher-details.html">Lois A</a>
+															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-06.jpg" alt="User Image"></a>
+															<a href="teacher-details.php">Sikhindar</a>
 														</h2>
 													</td>
 													<td>10</td>
-													<td>Female</td>
+													<td>Male</td>
 													<td>English</td>
 													<td>B</td>
 													<td>413 289 1314</td>
-													<td>2844 Leverton Cove Road, Palmer</td>
+													<td>Vijayawada</td>
 													<td class="text-end">
 														<div class="actions">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2">
+															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-teacher.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2153</td>
+													
+													<td>EID94</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-07.jpg" alt="User Image"></a>
-															<a href="teacher-details.html">Calvin</a>
+															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-07.jpg" alt="User Image"></a>
+															<a href="teacher-details.php">Vivek</a>
 														</h2>
 													</td>
 													<td>9</td>
@@ -292,29 +249,23 @@
 													<td>Mathematics</td>
 													<td>C</td>
 													<td>701 753 3810</td>
-													<td>1900  Hidden Meadow Drive, Crete</td>
+													<td>Dhindi</td>
 													<td class="text-end">
 														<div class="actions">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2">
+															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-teacher.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE1434</td>
+													
+													<td>EID54</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-08.jpg" alt="User Image"></a>
-															<a href="teacher-details.html">Vincent</a>
+															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-08.jpg" alt="User Image"></a>
+															<a href="teacher-details.php">xyz</a>
 														</h2>
 													</td>
 													<td>10</td>
@@ -325,26 +276,20 @@
 													<td>3979  Ashwood Drive, Omaha</td>
 													<td class="text-end">
 														<div class="actions">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2">
+															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-teacher.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2345</td>
+													
+													<td>EID57</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-09.jpg" alt="User Image"></a>
-															<a href="teacher-details.html">Kozma  Tatari</a>
+															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-09.jpg" alt="User Image"></a>
+															<a href="teacher-details.php">abc</a>
 														</h2>
 													</td>
 													<td>9</td>
@@ -355,26 +300,20 @@
 													<td>Rruga E Kavajes, Condor Center, Tirana</td>
 													<td class="text-end">
 														<div class="actions">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2">
+															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-teacher.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE2365</td>
+													
+													<td>EID08</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-10.jpg" alt="User Image"></a>
-															<a href="teacher-details.html">John Chambers</a>
+															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-10.jpg" alt="User Image"></a>
+															<a href="teacher-details.php">John Chambers</a>
 														</h2>
 													</td>
 													<td>11</td>
@@ -385,26 +324,20 @@
 													<td>4667 Sunset Drive, Pine Bluff</td>
 													<td class="text-end">
 														<div class="actions">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2">
+															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-teacher.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>
 												<tr>
-													<td>
-														<div class="form-check check-tables">
-															<input class="form-check-input" type="checkbox"  value="something">
-														</div>
-													</td>
-													<td>PRE1234</td>
+													
+													<td>EID01</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-11.jpg" alt="User Image"></a>
-															<a href="teacher-details.html">Nathan Humphries</a>
+															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-11.jpg" alt="User Image"></a>
+															<a href="teacher-details.php">Nathan Humphries</a>
 														</h2>
 													</td>
 													<td>10</td>
@@ -415,12 +348,10 @@
 													<td>86 Lamphey Road, Thelnetham</td>
 													<td class="text-end">
 														<div class="actions">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2">
+															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
 																<i class="feather-eye"></i>
 															</a>
-															<a href="edit-teacher.html" class="btn btn-sm bg-danger-light">
-																<i class="feather-edit"></i>
-															</a>
+															
 														</div>
 													</td>
 												</tr>

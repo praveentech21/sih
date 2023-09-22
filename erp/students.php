@@ -49,7 +49,7 @@
 								<div class="page-sub-header">
 									<h3 class="page-title">Students</h3>
 									<ul class="breadcrumb">
-										<li class="breadcrumb-item"><a href="students.html">Student</a></li>
+										<li class="breadcrumb-item"><a href="students.php">Student</a></li>
 										<li class="breadcrumb-item active">All Students</li>
 									</ul>
 								</div>
@@ -121,8 +121,8 @@
 													<td>21B91A6207</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-01.jpg" alt="User Image"></a>
-															<a href="student-details.html">Anusha</a>
+															<a href="student-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-01.jpg" alt="User Image"></a>
+															<a href="student-details.php">Anusha</a>
 														</h2>
 													</td>
 													<td>10th</td>
@@ -143,8 +143,8 @@
 													<td>21B91A6206</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-03.jpg" alt="User Image"></a>
-															<a href="student-details.html">Ravi Kumar</a>
+															<a href="student-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-03.jpg" alt="User Image"></a>
+															<a href="student-details.php">Ravi Kumar</a>
 														</h2>
 													</td>
 													<td>8th</td>
@@ -154,7 +154,7 @@
 													<td>5-12,Tholeru</td>
 													<td class="text-end">
 														<div class="actions ">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
+															<a href="student-details.php" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
 															
@@ -166,8 +166,8 @@
 													<td>21B91A6219</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-02.jpg" alt="User Image"></a>
-															<a href="student-details.html">Ganesh</a>
+															<a href="student-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-02.jpg" alt="User Image"></a>
+															<a href="student-details.php">Ganesh</a>
 														</h2>
 													</td>
 													<td>12</td>
@@ -177,7 +177,7 @@
 													<td>8.12,Sisali</td>
 													<td class="text-end">
 														<div class="actions ">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
+															<a href="student-details.php" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
 															
@@ -189,8 +189,8 @@
 													<td>21B91A6210</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-03.jpg" alt="User Image"></a>
-															<a href="student-details.html">Mani</a>
+															<a href="student-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-03.jpg" alt="User Image"></a>
+															<a href="student-details.php">Mani</a>
 														</h2>
 													</td>
 													<td>11 C</td>
@@ -200,7 +200,7 @@
 													<td>4-71,Palakol</td>
 													<td class="text-end">
 														<div class="actions ">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
+															<a href="student-details.php" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
 															
@@ -212,8 +212,8 @@
 													<td>21B91A6205</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-04.jpg" alt="User Image"></a>
-															<a href="student-details.html">Rohit</a>
+															<a href="student-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-04.jpg" alt="User Image"></a>
+															<a href="student-details.php">Rohit</a>
 														</h2>
 													</td>
 													<td>10 A</td>
@@ -223,7 +223,7 @@
 													<td>28-44, Killam</td>
 													<td class="text-end">
 														<div class="actions ">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
+															<a href="student-details.php" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
 															
@@ -235,8 +235,8 @@
 													<td>21B91A6258</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-05.jpg" alt="User Image"></a>
-															<a href="student-details.html">Harsha</a>
+															<a href="student-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-05.jpg" alt="User Image"></a>
+															<a href="student-details.php">Harsha</a>
 														</h2>
 													</td>
 													<td>9 B</td>
@@ -246,7 +246,7 @@
 													<td>19-10, Mulanka</td>
 													<td class="text-end">
 														<div class="actions ">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
+															<a href="student-details.php" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
 															
@@ -258,8 +258,8 @@
 													<td>21B91A6258</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-06.jpg" alt="User Image"></a>
-															<a href="student-details.html">Vikranth Rona</a>
+															<a href="student-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-06.jpg" alt="User Image"></a>
+															<a href="student-details.php">Vikranth Rona</a>
 														</h2>
 													</td>
 													<td>11 C</td>
@@ -269,7 +269,7 @@
 													<td>Block B,Jp Road,Bhimavaram</td>
 													<td class="text-end">
 														<div class="actions ">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
+															<a href="student-details.php" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
 															
@@ -281,8 +281,8 @@
 													<td>21B91A6232</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-07.jpg" alt="User Image"></a>
-															<a href="student-details.html">Prudhvi</a>
+															<a href="student-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-07.jpg" alt="User Image"></a>
+															<a href="student-details.php">Prudhvi</a>
 														</h2>
 													</td>
 													<td>10 A</td>
@@ -292,7 +292,7 @@
 													<td>Near KFC,Bhimavaram</td>
 													<td class="text-end">
 														<div class="actions ">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
+															<a href="student-details.php" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
 															
@@ -304,8 +304,8 @@
 													<td>21B91A6220</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-08.jpg" alt="User Image"></a>
-															<a href="student-details.html">Sanju</a>
+															<a href="student-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-08.jpg" alt="User Image"></a>
+															<a href="student-details.php">Sanju</a>
 														</h2>
 													</td>
 													<td>9 A</td>
@@ -315,7 +315,7 @@
 													<td>Bandhan Bank, Bhimavaram</td>
 													<td class="text-end">
 														<div class="actions ">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
+															<a href="student-details.php" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
 															
@@ -327,8 +327,8 @@
 													<td>21B91A6214</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-09.jpg" alt="User Image"></a>
-															<a href="student-details.html">Satwik</a>
+															<a href="student-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-09.jpg" alt="User Image"></a>
+															<a href="student-details.php">Satwik</a>
 														</h2>
 													</td>
 													<td>11 B</td>
@@ -338,30 +338,7 @@
 													<td>1-123,Rajamundry</td>
 													<td class="text-end">
 														<div class="actions ">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
-																<i class="feather-eye"></i>
-															</a>
-															
-														</div>
-													</td>
-												</tr>
-												<tr>
-													
-													<td>PRE1234</td>
-													<td>
-														<h2 class="table-avatar">
-															<a href="student-details.html" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-10.jpg" alt="User Image"></a>
-															<a href="student-details.html">Nathan Humphries</a>
-														</h2>
-													</td>
-													<td>10 B</td>
-													<td>26 Apr 1994</td>
-													<td>Stephen Marley</td>
-													<td>077 3499 9959</td>
-													<td>86 Lamphey Road, Thelnetham</td>
-													<td class="text-end">
-														<div class="actions ">
-															<a href="javascript:;" class="btn btn-sm bg-success-light me-2 ">
+															<a href="student-details.php" class="btn btn-sm bg-success-light me-2 ">
 																<i class="feather-eye"></i>
 															</a>
 															

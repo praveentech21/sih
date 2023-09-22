@@ -51,7 +51,7 @@
 							<div class="col">
 								<h3 class="page-title">Events</h3>
 								<ul class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+									<li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
 									<li class="breadcrumb-item active">Events</li>
 								</ul>
 							</div>
@@ -61,7 +61,7 @@
 						<div class="row align-items-center">
 							<div class="col"></div>
 							<div class="col-auto text-end float-end ms-auto">
-								<a href="add-events.html" class="btn btn-primary"><i class="fas fa-plus"></i></a>
+								<a href="add-events.php" class="btn btn-primary"><i class="fas fa-plus"></i></a>
 							</div>
 						</div>
 					</div>
