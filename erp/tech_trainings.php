@@ -49,10 +49,10 @@
 					<div class="page-header">
 						<div class="row align-items-center">
 							<div class="col">
-								<h3 class="page-title">Demo </h3>
+								<h3 class="page-title">Tech Trainings </h3>
 								<ul class="breadcrumb">
 									<li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
-									<li class="breadcrumb-item active">Demo</li>
+									<li class="breadcrumb-item active">Tech Trainings</li>
 								</ul>
 							</div>
 						</div>
