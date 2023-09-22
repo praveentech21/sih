@@ -26,6 +26,7 @@
 		
 		<!-- Main CSS -->
         <link rel="stylesheet" href="assets/css/style.css">
+		<!-- Chart Script -->
     </head>
     <body>
 	
@@ -103,6 +104,22 @@
 								</div>
 							</div>
 						</div>
+
+						<div class="col-xl-3 col-sm-6 col-12 d-flex">
+							<div class="card bg-comman w-100">
+								<div class="card-body">
+									<div class="db-widgets d-flex justify-content-between align-items-center">
+										<div class="db-info">
+											<h6>Points</h6>
+											<h3>3000</h3>
+										</div>
+										<div class="db-icon">
+											<img  src="assets/img/icons/dash-icon-04.svg"  alt="Dashboard Icon">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 						
 					</div>
 					<!-- /Overview Section -->				
@@ -110,7 +127,7 @@
 					<div class="row">
 						
 						
-						<div class="col-md-12 col-lg-12">
+						<div class="col-md-12 col-lg-6">
 						
 							<!-- Student Chart -->
 							<div class="card card-chart">
@@ -133,6 +150,18 @@
 							</div>
 							<!-- /Student Chart -->							
 						</div>	
+						<!-- Chart -->
+						<div class="col-md-6">	
+							<div class="card">
+								<div class="card-header">
+									<h5 class="card-title">Your Growth</h5>
+								</div>
+								<div class="card-body">
+									<div id="s-line"></div>
+								</div>
+							</div>
+						</div>
+						<!-- /Chart -->
 					</div>
 					
 					<div class="row">
@@ -164,7 +193,6 @@
 													</td>
 													<td class="text-nowrap">
 														<a href="profile.html">
-															<img class="rounded-circle" src="assets/img/profiles/avatar-02.jpg" width="25" alt="Star Students">
 															Anusha
 														</a>
 													</td>
@@ -180,7 +208,6 @@
 													</td>
 													<td class="text-nowrap">
 														<a href="profile.html">
-															<img class="rounded-circle" src="assets/img/profiles/avatar-01.jpg" width="25" alt="Star Students">
 															Ravi
 														</a>
 													</td>
@@ -196,7 +223,6 @@
 													</td>
 													<td class="text-nowrap">
 														<a href="profile.html">
-															<img class="rounded-circle" src="assets/img/profiles/avatar-03.jpg" width="25" alt="Star Students">
 															Vivek
 														</a>
 													</td>
@@ -212,7 +238,6 @@
 													</td>
 													<td class="text-nowrap">
 														<a href="profile.html">
-															<img class="rounded-circle" src="assets/img/profiles/avatar-04.jpg" width="25" alt="Star Students">
 															Teju
 														</a>
 													</td>
@@ -228,7 +253,6 @@
 													</td>
 													<td class="text-nowrap">
 														<a href="profile.html">
-															<img class="rounded-circle" src="assets/img/profiles/avatar-05.jpg" width="25" alt="Star Students">
 															Sikhindar
 														</a>
 													</td>
@@ -328,7 +352,8 @@
 		
         </div>
 		<!-- /Main Wrapper -->
-		
+		<!-- Chart Script Start-->
+		<!-- Chart Script End -->
 		<!-- jQuery -->
         <script src="assets/js/jquery-3.6.0.min.js"></script>
 		
@@ -347,6 +372,10 @@
 
 		<!-- Custom JS -->
 		<script src="assets/js/script.js"></script>
+
+		<!-- Include Chart.js from CDN -->
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
 		
     </body>
 </html>
