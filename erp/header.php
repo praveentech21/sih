@@ -202,7 +202,7 @@ echo'
 								<a href="tech_trainings.php"><i class="fas fa-chalkboard"></i> <span>Tech Trainings</span></a>
 							</li>
 							<li> 
-								<a href="error-404.php"><i class="fas fa-user-graduate"></i> <span>Expert Talks</span></a>
+								<a href="expert_talk.php"><i class="fas fa-user-graduate"></i> <span>Expert Talks</span></a>
 							</li>
 							<li> 
 								<a href="performance.php"><i class="fas fa-star"></i> <span>Performence</span></a>
