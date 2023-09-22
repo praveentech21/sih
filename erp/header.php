@@ -56,11 +56,7 @@ echo'
 							<li> 
 								<a href="demo.php"><i class="fas fa-book"></i> <span>Demo</span></a>
 							</li>
-							<li> 
-<<<<<<< HEAD
-=======
-								<a href="error-404.php"><i class="fas fa-users"></i> <span>Peer To Peer</span></a>
-							</li>
+							
 							<li> 
 								<a href="tech_trainings.php"><i class="fas fa-chalkboard"></i> <span>Tech Trainings</span></a>
 							</li>
@@ -68,7 +64,6 @@ echo'
 								<a href="expert_talk.php"><i class="fas fa-user-graduate"></i> <span>Expert Talks</span></a>
 							</li>
 							<li> 
->>>>>>> 699541ed806c7d9b49718b4c3e4a2a03c81ce657
 								<a href="performance.php"><i class="fas fa-star"></i> <span>Performence</span></a>
 							</li>
 							
