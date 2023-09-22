@@ -85,7 +85,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="https://youtu.be/ezbJwaLmOeM?si=p7TOCWAI2eXIyJCy" target="new">Web Development</a></h3>
+                                    <h3 class="blog-title"><a href="https://youtu.be/jQ0_bIVhkLk?si=3vxwM1U0UCEx0KgL" target="new">Web Development</a></h3>
                                     <p>Industrial expert talk on web Development.</p>
                                 </div>
                             </div>										
@@ -116,7 +116,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="https://youtu.be/5_zgFmncXWk?si=-ycHc-lyRjZYNjGF"target='new' >Expert Talk On UI/UX</a></h3>
+                                    <h3 class="blog-title"><a href="https://youtu.be/fdXI9yznzz8?si=vczfYkLJlRGbvGyB"target='new' >Expert Talk On UI/UX</a></h3>
                                     <p>talk on how to use ui/ux and cover some basics.</p>
                                 </div>
                                 
@@ -148,7 +148,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="https://youtu.be/1E1BGjm2hhk?si=OCw_WUrwwh5ZmHwt" target='new'>Tech Talks</a></h3>
+                                    <h3 class="blog-title"><a href="https://youtu.be/nS6d5BA5WfU?si=AExtiXCmMUmoR3aO" target='new'>Tech Talks</a></h3>
                                     <p>tech experts introducing the new technology.</p>
                                 </div>
                                 

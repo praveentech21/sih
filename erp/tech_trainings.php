@@ -85,7 +85,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="https://youtu.be/ezbJwaLmOeM?si=p7TOCWAI2eXIyJCy" target="new">PHP Training</a></h3>
+                                    <h3 class="blog-title"><a href="https://youtu.be/zZ6vybT1HQs?si=juuHzHVkUvb_AGhn" target="new">PHP Training</a></h3>
                                     <p>Introduction to PHP and explaining the basics of PHP.</p>
                                 </div>
                             </div>										
@@ -116,7 +116,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="https://youtu.be/5_zgFmncXWk?si=-ycHc-lyRjZYNjGF"target='new' >How To Make An PPT</a></h3>
+                                    <h3 class="blog-title"><a href="https://youtu.be/T3gf6MlkcbE?si=7cLlFYMw2EtPWqnm"target='new' >How To Make An PPT</a></h3>
                                     <p>how to create the PPT and upload the PPT In LMS.</p>
                                 </div>
                                 
@@ -148,7 +148,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="https://youtu.be/1E1BGjm2hhk?si=OCw_WUrwwh5ZmHwt" target='new'>AI Changes The World</a></h3>
+                                    <h3 class="blog-title"><a href="https://youtu.be/fepJ5oTroKc?si=YfMmbCrvGgv3948b" target='new'>AI Changes The World</a></h3>
                                     <p>AI Uses And Benfits Made The World Grow Up.</p>
                                 </div>
                                 
@@ -180,7 +180,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="https://youtu.be/NtEZffuL75E?si=Eufs_7idJMyfXYeC" target='new'>ERP Introduction</a></h3>
+                                    <h3 class="blog-title"><a href="https://youtu.be/c9HfNg4a_Og?si=JUheCUv8i_I6kQSr" target='new'>ERP Introduction</a></h3>
                                     <p>ERP System Introduction And Basics Of ERP</p>
                                 </div>
                                 
@@ -212,7 +212,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="https://youtu.be/uDZC3h8EUwg?si=gUU9_tk5Y-sh2bBw" target='new'>How To Use ChatGPT</a></h3>
+                                    <h3 class="blog-title"><a href="https://youtu.be/wLk2xRzhbjk?si=YwRxTx9Ik1XBUvK8" target='new'>How To Use ChatGPT</a></h3>
                                     <p>Open AI Changes The World With Thw ChatGPT.</p>
                                 </div>
                                 
@@ -244,7 +244,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-title"><a href="https://youtu.be/i8oop8Q1WRI?si=e_qHPrZglb9wjRPJ">Web Development Workshop</a></h3>
+                                    <h3 class="blog-title"><a href="https://youtu.be/C72WkcUZvco?si=XHZcPz-IrpuGqPFW">Web Development Workshop</a></h3>
                                     <p>Workshop on webdevelopment.</p>
                                 </div>
                                 
