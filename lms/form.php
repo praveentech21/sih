@@ -1,3 +1,39 @@
+<?php
+include 'connect.php';
+session_start();
+if (!isset($_SESSION['student'])) {
+    header('location:login.php');
+}
+if(isset($_GET['subject']) ){
+    $subject = $_GET['subject'];
+}
+else{
+    header('location:feedback.php');
+}
+
+
+$student = $_SESSION['student'];
+
+if (isset($_POST['submit'])) {
+    $q1 = $_POST['q1'];
+    $q2 = $_POST['q2'];
+    $q3 = $_POST['q3'];
+    $q4 = $_POST['q4'];
+    $q5 = $_POST['q5'];
+    if(mysqli_num_rows(mysqli_query($con,"select * from feedback where username = '$student' and course = '$subject'"))>0){
+        echo "<script>alert('you have already submitted your feedback!');</script>";
+        header("location:feedback.php");
+    }
+    $insert = mysqli_query($con, "INSERT INTO feedback (`username`,`course`,q1,q2,q3,q4,q5) VALUES ('$student','$subject','$q1','$q2','$q3','$q4','$q5')");
+    if ($insert) {
+        echo "<script>alert('Thanks you for your feedback!');</script>";
+        header("location:index.php");
+    } else {
+        echo "<script>alert('Something went wrong!');</script>";
+    }
+}
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -75,15 +111,16 @@
 </head>
 <body>
     <h1>Feedback Form</h1>
-    
+    <form action="#" method="post">
     <div class="feedback-form">
         <h2>Please provide your feedback:</h2>
         
         <!-- Question 1 -->
         <div class="question">
             <label for="q1">Question 1: How was the content?</label>
-            <select class="dropdown" id="q1">
-               <option value=5>Excellent</option>
+            <select required class="dropdown" id="q1" name="q1">
+            <option value="">Give Your Feed Back</option>
+            <option value=5>Excellent</option>
                 <option value=4>VeryGood</option>
                 <option value=3>Good</option>
                 <option value=2>Average</option>
@@ -94,7 +131,8 @@
         <!-- Question 2 -->
         <div class="question">
             <label for="q2">Question 2: Was it informative?</label>
-            <select class="dropdown" id="q2">
+            <select class="dropdown" id="q2" name="q2">
+            <option value="">Give Your Feed Back</option>
                <option value=5>Excellent</option>
                 <option value=4>VeryGood</option>
                 <option value=3>Good</option>
@@ -106,7 +144,8 @@
         <!-- Question 3 -->
         <div class="question">
             <label for="q3">Question 3: How was the presentation?</label>
-            <select class="dropdown" id="q3">
+            <select class="dropdown" id="q3" name="q3">
+            <option value="">Give Your Feed Back</option>
                 <option value=5>Excellent</option>
                 <option value=4>VeryGood</option>
                 <option value=3>Good</option>
@@ -118,7 +157,8 @@
         <!-- Question 4 -->
         <div class="question">
             <label for="q4">Question 4: Was it engaging?</label>
-            <select class="dropdown" id="q4">
+            <select class="dropdown" id="q4" name="q4">
+            <option value="">Give Your Feed Back</option>
                <option value=5>Excellent</option>
                 <option value=4>VeryGood</option>
                 <option value=3>Good</option>
@@ -130,7 +170,8 @@
         <!-- Question 5 -->
         <div class="question">
             <label for="q5">Question 5: Overall satisfaction?</label>
-            <select class="dropdown" id="q5">
+            <select class="dropdown" id="q5" name="q5">
+            <option value="">Give Your Feed Back</option>
                <option value=5>Excellent</option>
                 <option value=4>VeryGood</option>
                 <option value=3>Good</option>
@@ -140,7 +181,8 @@
         </div>
         
         <!-- Submit button -->
-        <button class="submit-button" type="submit">Submit Feedback</button>
+        <button class="submit-button" name="submit" type="submit">Submit Feedback</button>
     </div>
+    </form>
 </body>
 </
