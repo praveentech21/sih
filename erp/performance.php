@@ -27,6 +27,8 @@
 		<!-- Main CSS -->
         <link rel="stylesheet" href="assets/css/style.css">
 		<!-- Chart Script -->
+		<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
     </head>
     <body>
 	
@@ -124,13 +126,13 @@
 					</div>
 					<!-- /Overview Section -->				
 
-					<div class="row">
+					<!-- <div class="row"> -->
 						
 						
-						<div class="col-md-12 col-lg-6">
+						<!-- <div class="col-md-12 col-lg-6"> -->
 						
 							<!-- Student Chart -->
-							<div class="card card-chart">
+							<!-- <div class="card card-chart">
 								<div class="card-header">
 									<div class="row align-items-center">
 										<div class="col-6">
@@ -147,22 +149,65 @@
 								<div class="card-body">
 									<div id="bar"></div>
 								</div>
-							</div>
+							</div> -->
 							<!-- /Student Chart -->							
-						</div>	
+						<!-- </div>	 -->
 						<!-- Chart -->
-						<div class="col-md-6">	
+						<!-- <div class="col-md-6">	
 							<div class="card">
 								<div class="card-header">
 									<h5 class="card-title">Your Growth</h5>
 								</div>
 								<div class="card-body">
-									<div id="s-line"></div>
-								</div>
-							</div>
-						</div>
+								
+
+								<div id="teacherGrowthChart" style="width:100%;max-width:700px"></div>
+
+<script>
+// Sample data for teacher growth by activity
+const activities = ["Activity 1", "Activity 2", "Activity 3", "Activity 4", "Activity 5"];
+const growthData = [10, 20, 15, 25, 30]; // Replace with actual growth data for each activity
+
+// Define Data
+const data = [{
+  x: activities,
+  y: growthData,
+  type: "scatter",
+  mode: "lines+markers",
+  line: {
+    shape: "spline", // Use spline interpolation for curved lines
+    smoothing: 1.3, // Adjust the smoothing factor (higher values make it smoother)
+  },
+  marker: {
+    size: 8, // Customize marker size
+  },
+}];
+
+// Define Layout
+const layout = {
+  xaxis: { title: "Activities" },
+  yaxis: { title: "Growth" },
+  title: "Teacher Growth by Activity (Curved Line)",
+};
+
+// Display using Plotly
+Plotly.newPlot("teacherGrowthChart", data, layout);
+</script> -->
+
+<!-- Include Plotly.js library -->
+<!-- <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> -->
+
+
+
+
+
+
+
+								<!-- </div> -->
+							<!-- </div> -->
+						<!-- </div> -->
 						<!-- /Chart -->
-					</div>
+					<!-- </div> -->
 					
 					<div class="row">
 						<div class="col-xl-6 d-flex">						

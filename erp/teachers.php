@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-        <title>EIDl - Teachers</title>
+        <title>ERP - Teachers</title>
 		
 		<!-- Favicon -->
         <link rel="shortcut icon" href="assets/img/favicon.png">
@@ -110,7 +110,7 @@
 													<th>Subject</th>
 													<th>Section</th>
 													<th>Mobile Number</th>
-													<th>Address</th>
+													<th>Points</th>
 													<th class="text-end">Action</th>
 												</tr>
 											</thead>
@@ -120,7 +120,7 @@
 													<td>EID10</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-02.jpg" alt="User Image"></a>
+															<a href="teacher-details.php" ></a>
 															<a href="teacher-details.php">Suresh Babu</a>
 														</h2>
 													</td>
@@ -129,7 +129,7 @@
 													<td>C</td>
 													<td>A</td>
 													<td>9800066662</td>
-													<td>Bhimavaram</td>
+													<td>3500</td>
 													<td class="text-end">
 														<div class="actions">
 															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
@@ -144,7 +144,7 @@
 													<td>EID12</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-03.jpg" alt="User Image"></a>
+															<a href="teacher-details.php" ></a>
 															<a href="teacher-details.php">Ravi</a>
 														</h2>
 													</td>
@@ -153,7 +153,7 @@
 													<td>PHP</td>
 													<td>A</td>
 													<td>242 362 3100</td>
-													<td>Tholeru</td>
+													<td>3780</td>
 													<td class="text-end">
 														<div class="actions">
 															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
@@ -168,7 +168,7 @@
 													<td>EID20</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-04.jpg" alt="User Image"></a>
+															<a href="teacher-details.php" ></a>
 															<a href="teacher-details.php">Anusha</a>
 														</h2>
 													</td>
@@ -177,7 +177,7 @@
 													<td>Science</td>
 													<td>B</td>
 													<td>026 7318 4366</td>
-													<td>Kalidhindi</td>
+													<td>1405</td>
 													<td class="text-end">
 														<div class="actions">
 															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
@@ -192,7 +192,7 @@
 													<td>EID25</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-05.jpg" alt="User Image"></a>
+															<a href="teacher-details.php" ></a>
 															<a href="teacher-details.php">Teju</a>
 														</h2>
 													</td>
@@ -201,7 +201,7 @@
 													<td>History</td>
 													<td>C</td>
 													<td>952 512 4909</td>
-													<td>Bhimavaram</td>
+													<td>5002</td>
 													<td class="text-end">
 														<div class="actions">
 															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
@@ -216,7 +216,7 @@
 													<td>EID30</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-06.jpg" alt="User Image"></a>
+															<a href="teacher-details.php" ></a>
 															<a href="teacher-details.php">Sikhindar</a>
 														</h2>
 													</td>
@@ -225,7 +225,7 @@
 													<td>English</td>
 													<td>B</td>
 													<td>413 289 1314</td>
-													<td>Vijayawada</td>
+													<td>4650</td>
 													<td class="text-end">
 														<div class="actions">
 															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
@@ -240,7 +240,7 @@
 													<td>EID94</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-07.jpg" alt="User Image"></a>
+															<a href="teacher-details.php" ></a>
 															<a href="teacher-details.php">Vivek</a>
 														</h2>
 													</td>
@@ -249,7 +249,7 @@
 													<td>Mathematics</td>
 													<td>C</td>
 													<td>701 753 3810</td>
-													<td>Dhindi</td>
+													<td>9640</td>
 													<td class="text-end">
 														<div class="actions">
 															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
@@ -264,7 +264,7 @@
 													<td>EID54</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-08.jpg" alt="User Image"></a>
+															<a href="teacher-details.php" ></a>
 															<a href="teacher-details.php">xyz</a>
 														</h2>
 													</td>
@@ -273,7 +273,7 @@
 													<td>Mathematics</td>
 													<td>C</td>
 													<td>402 221 7523</td>
-													<td>3979  Ashwood Drive, Omaha</td>
+													<td>4560</td>
 													<td class="text-end">
 														<div class="actions">
 															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
@@ -288,7 +288,7 @@
 													<td>EID57</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-09.jpg" alt="User Image"></a>
+															<a href="teacher-details.php" ></a>
 															<a href="teacher-details.php">abc</a>
 														</h2>
 													</td>
@@ -297,7 +297,7 @@
 													<td>Science</td>
 													<td>A</td>
 													<td>04 2239 968</td>
-													<td>Rruga E Kavajes, Condor Center, Tirana</td>
+													<td>6500</td>
 													<td class="text-end">
 														<div class="actions">
 															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
@@ -312,7 +312,7 @@
 													<td>EID08</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-10.jpg" alt="User Image"></a>
+															<a href="teacher-details.php" ></a>
 															<a href="teacher-details.php">John Chambers</a>
 														</h2>
 													</td>
@@ -321,7 +321,7 @@
 													<td>Botony</td>
 													<td>B</td>
 													<td>870 663 2334</td>
-													<td>4667 Sunset Drive, Pine Bluff</td>
+													<td>4660</td>
 													<td class="text-end">
 														<div class="actions">
 															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
@@ -336,7 +336,7 @@
 													<td>EID01</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="teacher-details.php" class="avatar avatar-sm me-2"><img class="avatar-img rounded-circle" src="assets/img/profiles/avatar-11.jpg" alt="User Image"></a>
+															<a href="teacher-details.php" ></a>
 															<a href="teacher-details.php">Nathan Humphries</a>
 														</h2>
 													</td>
@@ -345,7 +345,7 @@
 													<td>Biology</td>
 													<td>A</td>
 													<td>077 3499 9959</td>
-													<td>86 Lamphey Road, Thelnetham</td>
+													<td>3380</td>
 													<td class="text-end">
 														<div class="actions">
 															<a href="teacher-details.php" class="btn btn-sm bg-success-light me-2">
@@ -366,7 +366,7 @@
 
 				<!-- Footer -->
 				<footer>
-					<p>Copyright © 2022 Dreamguys.</p>					
+					<p>Copyright © 2022 CSD.</p>					
 				</footer>
 				<!-- /Footer -->
 				
