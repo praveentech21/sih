@@ -199,7 +199,7 @@ echo'
 								<a href="error-404.php"><i class="fas fa-users"></i> <span>Peer To Peer</span></a>
 							</li>
 							<li> 
-								<a href="error-404.php"><i class="fas fa-chalkboard"></i> <span>Tech Trainings</span></a>
+								<a href="tech_trainings.php"><i class="fas fa-chalkboard"></i> <span>Tech Trainings</span></a>
 							</li>
 							<li> 
 								<a href="error-404.php"><i class="fas fa-user-graduate"></i> <span>Expert Talks</span></a>
