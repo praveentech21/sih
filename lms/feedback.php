@@ -1,3 +1,22 @@
+<?php
+include 'connect.php';
+session_start();
+if(isset($_POST['login'])){
+    $username = $_POST['username'];
+    $password = $_POST['password'];
+    $check = mysqli_query($lms,"SELECT * FROM user WHERE username = '$username' ");
+    if(mysqli_num_rows($check) > 0){
+        $_SESSION['student'] = $username;
+        header("location: subject.php");
+    }
+    else{
+        echo "<script>alert('Invalid username or password!');</script>";
+    }
+}
+
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -92,7 +111,7 @@
                 <label for="password">Password:</label>
                 <input type="password" id="password" name="password" required>
             </div>
-            <button type="submit" class="btn-login">Login</button>
+            <button type="submit" name="login" class="btn-login">Login</button>
         </form>
     </div>
 </body>

@@ -1,3 +1,10 @@
+<?php
+    session_start();
+    if(!isset($_SESSION['student'])){
+        header('location:feedback.php');
+    }
+    ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -56,28 +63,21 @@
     <h1>Subjects</h1>
     
     <div class="subject">
-        <a href="english.html">
+        <a href="form.php?subject=English">
             <h2>English</h2>
             <p>Give The Feedback To Our Respective Teachers</p>
         </a>
     </div>
     
     <div class="subject">
-        <a href="maths.html">
+        <a href="form.php?subject=maths">
             <h2>Maths</h2>
             <p>Give The Feedback To Our Respective Teachers</p>
         </a>
     </div>
-    
+        
     <div class="subject">
-        <a href="physics.html">
-            <h2>Physics</h2>
-            <p>Give The Feedback To Our Respective Teachers</p>
-        </a>
-    </div>
-    
-    <div class="subject">
-        <a href="chemistry.html">
+        <a href="form.php?subject=basics    ">
             <h2>Chemistry</h2>
             <p>Give The Feedback To Our Respective Teachers</p>
         </a>
