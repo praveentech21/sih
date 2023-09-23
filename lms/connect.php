@@ -1,4 +1,4 @@
 <?php
-$lms = new mysqli("localhost","root","","moodle");
-$con = new mysqli("localhost","root","","access");
+$lms = new mysqli("localhost","root","sih#vb","moodle");
+$con = new mysqli("localhost","root","sih#vb","access");
 ?>
