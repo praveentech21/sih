@@ -79,7 +79,7 @@
 					<!-- /Page Header -->
 
 					<!-- Overview Section -->
-					<div class="row">
+					<!-- <div class="row">
 						<div class="col-xl-3 col-sm-6 col-12 d-flex">
 							<div class="card bg-comman w-100">
 								<div class="card-body">
@@ -144,7 +144,7 @@
 							</div>
 						</div>
 						
-					</div>
+					</div> -->
 					<!-- /Overview Section -->				
 
 					<!-- <div class="row"> -->
@@ -233,7 +233,7 @@ Plotly.newPlot("teacherGrowthChart", data, layout);
 					<div class="row">
 						<div class="col-xl-6 d-flex">						
 							<!-- Star Students -->
-							<div class="card flex-fill student-space comman-shadow">
+							<!-- <div class="card flex-fill student-space comman-shadow">
 								<div class="card-header d-flex align-items-center">
 									<h5 class="card-title">Mani's Star Students</h5>
 									<ul class="chart-list-out student-ellips">
@@ -332,13 +332,13 @@ Plotly.newPlot("teacherGrowthChart", data, layout);
 										</table>
 									</div>
 								</div>
-							</div>
+							</div> -->
 							<!-- /Star Students -->							
 						</div>
 
 						<div class="col-xl-6 d-flex">						
 							<!-- Feed Activity -->
-							<div class="card flex-fill comman-shadow">
+							<!-- <div class="card flex-fill comman-shadow">
 								<div class="card-header d-flex align-items-center">
 									<h5 class="card-title ">Faculty Activity </h5>
 									<ul class="chart-list-out student-ellips">
@@ -397,21 +397,50 @@ Plotly.newPlot("teacherGrowthChart", data, layout);
 										</div>
 									</div>
 								</div>
-							</div>
+							</div> -->
 							<!-- /Feed Activity -->							
-						</div>
-					</div>
+						<!-- </div> -->
+					<!-- </div> -->
 
 					
-				</div>
+				<!-- </div> -->
 				
 				<!-- Footer -->
-				<footer>
+				<!-- <footer>
 					<p>Copyright © 2023 CSD</p>					
-				</footer>
+				</footer> -->
 				<!-- /Footer -->
 
+				
+
 			</div>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+
+<canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+
+<script>
+var xValues = ["Maths", "English", "Physics", "Chemistry"];
+var yValues = [55, 49, 44, 24];
+var barColors = ["red", "green","blue","orange"];
+
+new Chart("myChart", {
+  type: "bar",
+  data: {
+    labels: xValues,
+    datasets: [{
+      backgroundColor: barColors,
+      data: yValues
+    }]
+  },
+  options: {
+    legend: {display: false},
+    title: {
+      display: true,
+      text: "Teacher Progress"
+    }
+  }
+});
+</script>
 			<!-- /Page Wrapper -->
 
 			

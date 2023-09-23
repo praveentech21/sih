@@ -56,9 +56,7 @@ echo'
 							<li> 
 								<a href="demo.php"><i class="fas fa-book"></i> <span>Demo</span></a>
 							</li>
-							<li> 
-								<a href="error-404.php"><i class="fas fa-users"></i> <span>Peer To Peer</span></a>
-							</li>
+							
 							<li> 
 								<a href="tech_trainings.php"><i class="fas fa-chalkboard"></i> <span>Tech Trainings</span></a>
 							</li>
