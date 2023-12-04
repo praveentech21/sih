@@ -52,6 +52,10 @@
 
 		include 'quizedata.php';
 
+		$date1 = mysqli_fetch_assoc(mysqli_query($con, "SELECT * FROM `teacher` where course = 'basics' "));
+		$date2 = mysqli_fetch_assoc(mysqli_query($con, "SELECT * FROM `teacher` where course = 'English' "));
+		$date3 = mysqli_fetch_assoc(mysqli_query($con, "SELECT * FROM `teacher` where course = 'maths' "));
+
 	?>	
 		<!-- Main Wrapper -->
         <div class="main-wrapper">
@@ -60,6 +64,8 @@
 			
 			<!-- Page Wrapper -->
             <div class="page-wrapper">
+			
+
 			
                 <div class="content container-fluid">
 					<!-- Page Header -->
@@ -77,6 +83,42 @@
 						</div>
 					</div>
 					<!-- /Page Header -->
+					<div class="table-responsive">
+                                    <table class="table border-0 star-student table-hover table-center mb-0 datatable table-striped">
+                                        <thead class="student-thread">
+                                            <tr>
+                                                <th>Name</th>
+                                                <th>subject</th>
+                                                <th>Score</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+										<tr>
+                                                <td>Anusha Chennemsetti</td>
+                                                <td>Chemistry</td>
+                                                
+                                                <td><?php echo $date1['score'] * 10 ?></td>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Teju Guttla</td>
+                                                <td>English</td>
+                                                
+                                                <td><?php echo $date2['score'] * 10 ?></td>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Vivek hari</td>
+                                                <td>Maths</td>
+                                                
+                                                <td><?php echo $date3['score'] * 10 ?></td>
+                                                </td>
+                                            </tr>
+											
+                                            <!-- Add more exam rows here -->
+                                        </tbody>
+                                    </table>
+                                </div>
 
 					<!-- Overview Section -->
 					<!-- <div class="row">
@@ -415,13 +457,34 @@ Plotly.newPlot("teacherGrowthChart", data, layout);
 
 			</div>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+			<script>
+				fetch('shiva.php')
+    .then(response => response.json())
+    .then(data => {
+        // Use the data in your JavaScript code
+        console.log(data);
+        
+        // You can now access the values using JavaScript
+        var value1 = data[0];
+        var value2 = data[1];
+        var value3 = data[2];
+
+        // Use value1 and value2 as needed
+    })
+    .catch(error => {
+        console.error('Error:', error);
+    });
+
+			</script>
 
 <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
 
 <script>
-var xValues = ["Maths", "English", "Physics", "Chemistry"];
-var yValues = [55, 49, 44, 24];
-var barColors = ["red", "green","blue","orange"];
+
+total = value1 + value2 + value3;
+var xValues = ["English", "Maths", "Chemistry","total"];
+var yValues = [value2, value3, value1,total];
+var barColors = [ "green","blue","orange"];
 
 new Chart("myChart", {
   type: "bar",
